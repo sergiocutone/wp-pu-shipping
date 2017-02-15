@@ -1,9 +1,9 @@
 <?php
 
 /*
-Plugin Name: Web Prestige Shipping
+Plugin Name: YP Web Prestige - Shipping
 Plugin URI:  https://google.com
-Description: Web Prestige Shipping Plugin
+Description: YP Web Prestige - Shipping Plugin
 Version:     1.0
 Author:      Web Prestige
 Author URI:  https://webprestige.ca
