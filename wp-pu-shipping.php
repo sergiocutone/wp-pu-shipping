@@ -1,7 +1,7 @@
 <?php
 
 /*
-Plugin Name: WP Shipping
+Plugin Name: Web Prestige Shipping
 Plugin URI:  https://google.com
 Description: Web Prestige Shipping Plugin
 Version:     1.0
