@@ -69,6 +69,9 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 
 == Changelog ==
 
+= 1.1 =
+* Testing Update Funcionality
+
 = 1.0 =
 * Master Deploy
 
