@@ -70,7 +70,7 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 == Changelog ==
 
 = 1.1 =
-* Testing Update Funcionality
+* Testing Update Funcionality from 1.0 to 1.1
 
 = 1.0 =
 * Master Deploy
