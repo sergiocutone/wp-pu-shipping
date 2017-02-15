@@ -4,7 +4,7 @@ Donate link: http://webprestige.ca
 Tags: shipping
 Requires at least: 4.6
 Tested up to: 4.7.2
-Stable tag: 1.3
+Stable tag: 1.3.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -45,6 +45,12 @@ directory take precedence. For example, `/assets/screenshot-1.png` would win ove
 2. This is the second screen shot
 
 == Changelog ==
+
+= 1.3.1 =
+* Testing Update 1.3 to 1.3.1
+
+= 1.3 =
+* Testing Update 1.2 to 1.3
 
 = 1.2 =
 * Testing Update 1.1 to 1.2
