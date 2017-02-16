@@ -4,7 +4,7 @@
 
 $getCalc = get_post_meta( get_the_ID(), '_select', true );
 
-echo $_POST["yp_postal"];
+#echo $_POST["yp_postal"];
 
 if ($getCalc === 'sf') {
 	?>
@@ -38,7 +38,7 @@ if ($getCalc === 'sf') {
 	?>	
 	<div id="calcbulk" class="yp_custompricing">
 		<p><strong>Price:</strong> $<span id="yp_prodprice"></span> / Cubic Yard</p>
-		<p>Charge by: <?php echo get_post_meta( get_the_ID(), '_select', true ); echo " : " .$_SESSION['postal']; ?></p>
+		<p>Charge by: <?php echo get_post_meta( get_the_ID(), '_select', true ); ?></p>
 		<p id="yp_instruct" style='color:#FF0000'>Please enter your depth, length and width.</p>
 		<p><strong>Depth: </strong><select name='yp_depth'><option value='1'>1"</option><option value='2'>2"</option><option value='3'>3"</option><option value='4'>4"</option><option value='5'>5"</option><option value='6'>6"</option></select></p>
 		<p style="overflow:hidden;">
